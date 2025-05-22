@@ -1,20 +1,4 @@
-Great move — your **GitHub profile** is a strong credibility signal, especially for startup clients looking for a hands-on MVP developer.
 
-Let’s turn your GitHub into a **personal brand asset** with a clear niche focus.
-
----
-
-## 🔧 UPDATE 1: GitHub Profile `README.md` (Highlights on your profile)
-
-Create or update the `README.md` in a repo named **exactly like your username**, e.g., `yusuf-delvi/yusuf-delvi`.
-
-Here’s a complete version you can use (edit as needed):
-
----
-
-### ✅ `README.md` for GitHub Profile
-
-````markdown
 <h1 align="center">Hey 👋, I'm Yusuf Delvi</h1>
 
 <p align="center">
@@ -44,9 +28,7 @@ Backend:    Node.js, Express, NestJS
 Database:   PostgreSQL, MongoDB, Redis  
 DevOps:     Docker, AWS, Vercel, GitHub Actions  
 AI Tools:   OpenAI API, LangChain, TensorFlow  
-````
-
----
+```
 
 🌍 **Let’s Collaborate**
 If you’re building something and need a reliable dev partner to make it real — I’m available for freelance & consulting.
