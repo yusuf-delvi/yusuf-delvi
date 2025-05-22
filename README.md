@@ -32,4 +32,5 @@ If you’re building something and need a reliable dev partner to make it real �
 
 📩 Email | 🌐 Website | 📅 Book a Call
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yusuf-delvi&show_icons=true&theme=radical" alt="Yusuf's GitHub stats" /> </p> ```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yusuf-delvi&show_icons=true&theme=radical" alt="Yusuf's GitHub stats" /> </p>
+```
